@@ -24,6 +24,6 @@ This project focuses on evaluating and comparing several popular technical analy
 To get started, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/technical-analysis.git
+git clone https://github.com/pythongurfer/technical-analysis.git
 cd technical-analysis
 pip install -r requirements.txt
