@@ -1,4 +1,4 @@
-#!/Users/anikarosenzuaig/automated_trading/env/bin/python
+#!/Users/anikarosenzuaig/automated_trading/env/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys

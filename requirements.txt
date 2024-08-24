@@ -1,18 +1,20 @@
-# For machine learning and numerical computations
-scikit-learn>=1.2.0
-tensorflow>=2.12.0
-
-# For data manipulation and numerical operations
-pandas>=2.0.0
-numpy>=1.24.0
-
-# For data visualization
-matplotlib>=3.7.0
-seaborn>=0.12.2
-
-# Other commonly used packages
-requests>=2.30.0
-jupyterlab>=4.0.0
-ipykernel>=6.22.0
-
-yfinance>=0.2.0
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+torch
+torchvision
+keras
+xgboost
+lightgbm
+catboost
+opencv-python
+nltk
+spacy
+transformers
+sentence-transformers
+pytorch-lightning
+flask
+fastapi
